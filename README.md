@@ -24,12 +24,17 @@ Draw It or Lose It Software Requirements:
 * One potential area for revision in the design document could be the Evaluation section. While it currently identifies development considerations for different platforms, it doesn't explicitly tie those considerations back to the client's requirements or the chosen technical approach (cloud-based platform, web application).
 
 #### How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-* Requirements Gathering: The document starts by outlining the client's requirements, which directly translate to user needs.
-* It's crucial to consider user needs when designing software for several reasons:
+* The document starts by outlining the client's requirements, which directly translate to user needs.
+* Importance of user's needs when designing:
 
-    * Increased User Satisfaction: By understanding what users want and expect from the software, you can design features and functionalities that meet their needs. This leads to a more satisfying and enjoyable user experience.
+    * Increased User Satisfaction: By understanding what users want and expect from the software, you can design features and functionalities that meet their needs.
     * Improved Product Adoption: If the software doesn't address user needs, they are less likely to adopt it. Considering user needs from the beginning helps ensure the software is relevant and solves a problem for its target audience.
     * Reduced Development Costs: Focusing on user needs helps avoid creating features that nobody wants or uses. This reduces development time and costs associated with unnecessary functionalities.
     * Clearer Design Direction: Understanding user needs provides a guiding principle for design decisions. When faced with technical choices, considering user needs helps determine the best path forward.
 
 #### How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+* I approached designing software with a user-centered design. A user-centered design places the user's needs at the center of the design process.
+* Future techniques or strategies:
+  * Design Patterns:  Utilizing established design patterns can promote code reuse, maintainability, and adherence to best practices.
+  * Prototyping: Low-fidelity prototypes (e.g., wireframes, mockups) can be created quickly and iterated upon to validate assumptions and refine the design.
+  * Agile Development: Short development sprints, daily stand-up meetings, and user story creation can help ensure the project stays on track and meets user requirements.
