@@ -7,7 +7,7 @@ This portfolio project showcases a software design document created in the CS-23
 The Gaming Room wants a web-based multiplayer version of their mobile game "Draw It or Lose It".  This game involves teams guessing words based on images from a library.
 
 Software Requirements:
-    * A game will have the ability to have one or more teams involved.
+* A game will have the ability to have one or more teams involved.
     * Each team will have multiple players assigned to it.
     * Game and team names must be unique to allow users to check whether a name is in use when choosing a team name.
     * Only one instance of the game can exist in memory at any given time. This can be accomplished by creating unique identifiers for each instance of a game, team, or player.
