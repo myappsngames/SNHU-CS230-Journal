@@ -14,11 +14,22 @@ Draw It or Lose It Software Requirements:
 
 #### What did you do particularly well in developing this documentation?
 * Alignment with Requirements: The software design document clearly outlines the client's requirements and demonstrates how my design choices address each requirement.
+* Consideration of Design Constraints: I have identified potential challenges like network latency, cross-platform compatibility, and security, and proposed solutions to mitigate them.
 
 #### What about the process of working through a design document did you find helpful when developing the code?
+* Clear understanding of requirements: A well-defined design document outlines the project's goals and functionalities. This helped me avoid misunderstandings and write code that meets the client's needs.
+* Identification of potential challenges: By anticipating and addressing design constraints like network latency or security in the document, I could proactively implement solutions during development, avoiding problems later in the coding process.
 
 #### If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+* One potential area for revision in the design document could be the Evaluation section. While it currently identifies development considerations for different platforms, it doesn't explicitly tie those considerations back to the client's requirements or the chosen technical approach (cloud-based platform, web application).
 
 #### How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+* Requirements Gathering: The document starts by outlining the client's requirements, which directly translate to user needs.
+* It's crucial to consider user needs when designing software for several reasons:
+
+    * Increased User Satisfaction: By understanding what users want and expect from the software, you can design features and functionalities that meet their needs. This leads to a more satisfying and enjoyable user experience.
+    * Improved Product Adoption: If the software doesn't address user needs, they are less likely to adopt it. Considering user needs from the beginning helps ensure the software is relevant and solves a problem for its target audience.
+    * Reduced Development Costs: Focusing on user needs helps avoid creating features that nobody wants or uses. This reduces development time and costs associated with unnecessary functionalities.
+    * Clearer Design Direction: Understanding user needs provides a guiding principle for design decisions. When faced with technical choices, considering user needs helps determine the best path forward.
 
 #### How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
