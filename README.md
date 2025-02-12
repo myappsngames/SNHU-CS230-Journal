@@ -1,5 +1,5 @@
-# SNHU CS230: Operating Platforms
-This portfolio project showcases a software design document created in the CS-230: Operating Platforms course taken at Southern New Hampshire University. 
+# SNHU CS230: Operating Platforms Journal
+Showcases a software design document
 
 ## Reflection
 
